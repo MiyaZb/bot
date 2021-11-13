@@ -1,4 +1,4 @@
-﻿///----------( Created By KurrXd )----------\\\
+﻿///----------( Created By Oreki )----------\\\
 
 /**
 BASE:DENIS
